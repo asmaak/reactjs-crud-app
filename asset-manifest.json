@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/reactjs-crud-app/static/css/main.bbed1883.chunk.css",
-    "main.js": "/reactjs-crud-app/static/js/main.ff27fd4c.chunk.js",
-    "main.js.map": "/reactjs-crud-app/static/js/main.ff27fd4c.chunk.js.map",
-    "runtime-main.js": "/reactjs-crud-app/static/js/runtime-main.e600d491.js",
-    "runtime-main.js.map": "/reactjs-crud-app/static/js/runtime-main.e600d491.js.map",
-    "static/js/2.7719d37e.chunk.js": "/reactjs-crud-app/static/js/2.7719d37e.chunk.js",
-    "static/js/2.7719d37e.chunk.js.map": "/reactjs-crud-app/static/js/2.7719d37e.chunk.js.map",
-    "index.html": "/reactjs-crud-app/index.html",
-    "precache-manifest.bbbd828e5fee37a618bd4617d5b1845b.js": "/reactjs-crud-app/precache-manifest.bbbd828e5fee37a618bd4617d5b1845b.js",
-    "service-worker.js": "/reactjs-crud-app/service-worker.js",
-    "static/css/main.bbed1883.chunk.css.map": "/reactjs-crud-app/static/css/main.bbed1883.chunk.css.map",
-    "static/js/2.7719d37e.chunk.js.LICENSE.txt": "/reactjs-crud-app/static/js/2.7719d37e.chunk.js.LICENSE.txt"
+    "main.css": "/reactjs-crud_app/static/css/main.bbed1883.chunk.css",
+    "main.js": "/reactjs-crud_app/static/js/main.e52ab1e3.chunk.js",
+    "main.js.map": "/reactjs-crud_app/static/js/main.e52ab1e3.chunk.js.map",
+    "runtime-main.js": "/reactjs-crud_app/static/js/runtime-main.61603151.js",
+    "runtime-main.js.map": "/reactjs-crud_app/static/js/runtime-main.61603151.js.map",
+    "static/js/2.7719d37e.chunk.js": "/reactjs-crud_app/static/js/2.7719d37e.chunk.js",
+    "static/js/2.7719d37e.chunk.js.map": "/reactjs-crud_app/static/js/2.7719d37e.chunk.js.map",
+    "index.html": "/reactjs-crud_app/index.html",
+    "precache-manifest.932c1358bdca2bab305febf6d78df38f.js": "/reactjs-crud_app/precache-manifest.932c1358bdca2bab305febf6d78df38f.js",
+    "service-worker.js": "/reactjs-crud_app/service-worker.js",
+    "static/css/main.bbed1883.chunk.css.map": "/reactjs-crud_app/static/css/main.bbed1883.chunk.css.map",
+    "static/js/2.7719d37e.chunk.js.LICENSE.txt": "/reactjs-crud_app/static/js/2.7719d37e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e600d491.js",
+    "static/js/runtime-main.61603151.js",
     "static/js/2.7719d37e.chunk.js",
     "static/css/main.bbed1883.chunk.css",
-    "static/js/main.ff27fd4c.chunk.js"
+    "static/js/main.e52ab1e3.chunk.js"
   ]
 }
